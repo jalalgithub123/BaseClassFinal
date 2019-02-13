@@ -9,4 +9,8 @@ public class CreationOfBaseClass {
 public void methodA() {
 	System.out.println("MethodA");
 }
+
+public void methodC() {
+	System.out.println("MethodC");
+}
 }
